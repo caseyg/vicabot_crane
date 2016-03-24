@@ -109,7 +109,7 @@ class BoodooBot
     end
 
     scheduler.interval @update_follows_interval do
-      follow_parity
+      # follow_parity
     end
 
     scheduler.interval @refresh_model_interval do
