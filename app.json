@@ -48,5 +48,8 @@
     "TIMEOUT_SLEEP": "5",
     "MAX_ERROR_RETRIES": "10",
     "UPDATE_FOLLOWS_INTERVAL": "90m"
+  },
+  {
+   "stack": "heroku-18"
   }
 }
