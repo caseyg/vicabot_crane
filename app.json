@@ -2,6 +2,7 @@
   "name": "BooDooBooks",
   "description": "Turn-key _ebooks deployment using twitter_ebooks",
   "repository": "https://github.com/BooDoo/ebooks_example/tree/deploy",
+  "stack": "heroku-18"
   "keywords": [
     "twitter",
     "bot",
@@ -48,8 +49,5 @@
     "TIMEOUT_SLEEP": "5",
     "MAX_ERROR_RETRIES": "10",
     "UPDATE_FOLLOWS_INTERVAL": "90m"
-  },
-  {
-   "stack": "heroku-18"
   }
 }
